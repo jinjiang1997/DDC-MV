@@ -1,5 +1,6 @@
 # Data-for-data-driven-control-of-marine-vehicles
 
-We provide input/state data obtained from a Marine Vehicle model and use it to generate data suitable for data-driven controller design.  Data sets 'MVdata.mat', 'MVdata1.mat', 'MVdataf.mat', and 'MVdataf1.mat' correspond to the data used in the design of 'Back1', 'Back2', 'FT1', 'FT2' in our paper.  In addition, we also attach the calculation results of each controller to the corresponding dataset.
+We provide input/state data obtained from a Marine Vehicle model. Folders “level 1”, “level 2”, “level 3”, “level 4”, and “level 5” correspond to the system input-state trajectories  with noise level being  0.2, 0.25, 0.27, 0.3, and 0.35, respectively.
+
 
 
